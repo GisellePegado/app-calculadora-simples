@@ -1,5 +1,9 @@
 # 🧮 Calculadora Simples — App Android
 
+![Kodular](https://img.shields.io/badge/Kodular-Low--Code-6200EE?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-App-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)
+
 Aplicativo Android de calculadora com as quatro operações aritméticas básicas,
 desenvolvido como projeto das **Aulas 5 e 6** da disciplina **Fundamentos de Design de Sistemas**.
 
