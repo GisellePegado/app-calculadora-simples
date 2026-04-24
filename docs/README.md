@@ -16,3 +16,6 @@
 - [Visão Geral](3-architecture/1-overview.md) — camadas, componentes e padrões do Kodular
 - [Decisões de Arquitetura](3-architecture/2-decisions.md) — ADRs: Kodular, cálculo imediato e distribuição APK
 - [Instalação e Distribuição](3-architecture/3-deployment.md) — changelog v1→v8 e guia de instalação
+
+## 🧱 Blocos
+- [Desenvolvimento com Kodular (Low-Code Development)](4-blocks/README.md) — blocos construídos no Kodular para construir a lógica do app
