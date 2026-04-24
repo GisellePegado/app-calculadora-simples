@@ -66,6 +66,7 @@ A documentação completa está organizada na pasta [`docs/`](docs/):
 | Requisitos   | [Histórias de Usuário](docs/1-requirements/1-user-stories.md) · [Funcionais](docs/1-requirements/2-functional.md) · [Não Funcionais](docs/1-requirements/3-non-functional.md) · [Casos de Uso](docs/1-requirements/4-use-cases.md) |
 | Planejamento | [Kanban / Sprint Board](docs/2-planning/kanban.md)                                                                                                                                                                                 |
 | Arquitetura  | [Visão Geral](docs/3-architecture/1-overview.md) · [Decisões (ADRs)](docs/3-architecture/2-decisions.md) · [Instalação](docs/3-architecture/3-deployment.md)                                                                       |
+| Blocos  | [Desenvolvimento com Kodular (Low-Code Development)](docs/4-blocks/README.md) |
 
 ---
 
